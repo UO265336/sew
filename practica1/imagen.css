@@ -1,0 +1,25 @@
+/* a=0 b=0 c=1 -> Especifidad= 1*/
+h1{
+
+background-image:URL("multimedia/SopranoTitle.jpg");
+background-repeat: repeat;
+background-color: currentColor;
+
+}
+/* a=0 b=0 c=2 -> Especifidad= 2*/
+body{
+
+background-image:URL("multimedia/gris-html.jpg");
+background-repeat: repeat;
+background-color: currentColor;
+
+}
+
+/* a=0 b=0 c=1 -> Especifidad= 1*/
+h2{
+
+background-image:URL("multimedia/puntos.jpg");
+background-repeat: repeat;
+background-color: currentColor;
+
+}
